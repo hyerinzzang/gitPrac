@@ -11,4 +11,6 @@ public class Git {
 		System.out.println("난 조원");
 
 		// 잘올라갔겠지
+		
+		System.out.println("22222");
 	}}
